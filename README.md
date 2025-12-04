@@ -1,7 +1,6 @@
 # FacePlusPlus Python SDK
 
-* 集成运行文档请查看目录下的文件`Python SDK demo 使用文档.pdf` 
-
-* 如果集成中有问题,请[联系我们](https://www.faceplusplus.com.cn/contact-us/)
+选择PythonSDK文件夹，然后选择facepp.py文件，在这个文件中填写API_KEY和API_SECRET
+选择call.py文件然后运行
 
 
